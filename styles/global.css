@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color1:#735439;
+    --color2:#A67246;
+    --color3:#468C8C;
+    --color4:#95BBBF;
+    --color5:#223D40;
+    --font-family: "Poppins", serif;
+}
+
+body{
+    font: var(--font-family);
+}
