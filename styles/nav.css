@@ -1,0 +1,24 @@
+#profile{
+    display: flex;
+    justify-content: space-between;
+    padding-block: 24px;
+}
+
+#profile h1{
+    color: var(--color4);
+}
+
+#profile ul{
+    list-style: none;
+    display: flex;
+    gap: 24px;
+}
+
+#profile ul li a{
+    color: var(--color4);
+    transition: .3s;
+} 
+
+#profile ul li  a:hover{
+    color: black;
+}
