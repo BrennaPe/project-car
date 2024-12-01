@@ -23,7 +23,7 @@ body{
     font: var(--text);
     background-image: url(../assets/bg1.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: initial;
     background-position: center;
     width: 100vw;
     min-height: 100vh;
