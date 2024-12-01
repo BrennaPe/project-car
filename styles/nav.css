@@ -22,3 +22,8 @@
 #profile ul li  a:hover{
     color: black;
 }
+
+nav{
+    max-width: 1200px;
+    margin: auto;
+}
